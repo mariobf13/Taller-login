@@ -1,0 +1,30 @@
+
+[15-Jun-2022 02:59:27 Europe/Berlin] Metodo validarSesion::Usuario no existe en BD selepam
+[15-Jun-2022 02:59:37 Europe/Berlin] Metodo validarSesion::Usuario no existe en BD selepama
+[15-Jun-2022 02:59:39 Europe/Berlin] Metodo validarSesion::Usuario no existe en BD selepamadzc
+[15-Jun-2022 02:59:53 Europe/Berlin] Metodo validarSesion::Usuario no existe en BD selepama
+[15-Jun-2022 03:03:50 Europe/Berlin] Metodo validarUsuario::Usuario o correo ya existe en BD
+[15-Jun-2022 03:03:54 Europe/Berlin] Metodo enviarMail::Email enviado con exito
+[15-Jun-2022 03:03:54 Europe/Berlin] Metodo ingresarUsuario::Usuario registrado en BD
+[15-Jun-2022 03:04:36 Europe/Berlin] Metodo validarSesion::Usuario no esta activo en BD
+[15-Jun-2022 03:04:42 Europe/Berlin] Metodo validarSesion::Usuario no esta activo en BD
+[15-Jun-2022 03:04:52 Europe/Berlin] Metodo actualizarEstado::Usuario activado en BD
+[15-Jun-2022 03:04:52 Europe/Berlin] Metodo verificarKey::Key existe en BD
+[15-Jun-2022 03:05:27 Europe/Berlin] Metodo actualizarEstado::Usuario activado en BD
+[15-Jun-2022 03:05:27 Europe/Berlin] Metodo verificarKey::Key existe en BD
+[15-Jun-2022 03:05:44 Europe/Berlin] Metodo validarSesion::Password coincide en BD
+[15-Jun-2022 03:06:55 Europe/Berlin] Metodo validarUsuario::Usuario o Correo no existe en BD
+[15-Jun-2022 03:07:12 Europe/Berlin] Metodo validarUsuario::Usuario y Correo ya existe en BD selepama
+[15-Jun-2022 03:07:12 Europe/Berlin] Metodo insertarRecuperacion::Recuperacion insertada BD
+[15-Jun-2022 03:07:15 Europe/Berlin] Metodo enviarMail::Email enviado con exito
+[15-Jun-2022 03:08:15 Europe/Berlin] Metodo validarCodig::Codigo no ya existe en BD 
+[15-Jun-2022 03:08:18 Europe/Berlin] Metodo validarCodig::Codigo existe existe en BD 45
+[15-Jun-2022 03:08:18 Europe/Berlin] Metodo actualizarEstadoCodigo::Estado del codigo actualizado en BD
+[15-Jun-2022 03:08:58 Europe/Berlin] Metodo actualizarContraseña::Contraseña actualizada en BD
+[15-Jun-2022 03:09:17 Europe/Berlin] Metodo validarSesion::Password coincide en BD
+[15-Jun-2022 03:09:53 Europe/Berlin] Metodo validarUsuario::Usuario o correo ya existe en BD
+[15-Jun-2022 03:09:53 Europe/Berlin] Metodo validarUsuario::Usuario o correo ya existe en BD
+[15-Jun-2022 03:10:13 Europe/Berlin] Metodo validarUsuario::Usuario o correo ya existe en BD
+[15-Jun-2022 03:10:21 Europe/Berlin] Metodo validarUsuario::Usuario o correo ya existe en BD
+[15-Jun-2022 03:10:24 Europe/Berlin] Metodo enviarMail::Email enviado con exito
+[15-Jun-2022 03:10:24 Europe/Berlin] Metodo ingresarUsuario::Usuario registrado en BD
